@@ -18,9 +18,13 @@ img { border:1px solid #c7d5ca; padding:5px; background:white; }
 
 # About Me
 
-I am a Geography and GIS graduate from the **University of Illinois Urbana-Champaign** with experience in GIS data management, cartography, spatial analysis, field data collection, utility mapping, and geospatial visualization.
+I am a Geography and GIS graduate from the **University of Illinois Urbana-Champaign** with experience in GIS data management, cartography, spatial analysis, field data collection, utility mapping, and geospatial visualization. I enjoy using GIS to turn spatial data into maps and tools that can support infrastructure, environmental work, planning, and everyday decision-making.
 
-I enjoy using GIS to turn spatial data into maps and tools that can support infrastructure, environmental work, planning, and everyday decision-making.
+# Volunteer: Humanitarian OpenStreetMaps
+
+Contributing to Open Street Maps Humanitarian Mapping tasks has been a meaningful way for me to connect and promote disaster resilience advocacy. Creating building shapes, road lines, and identifying objects in the imagery for disaster recovery or mitigation.
+
+**HOT:** [https://www.openstreetmap.org/user/arlingtonun]
 
 # Professional Experience
 
